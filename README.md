@@ -1,5 +1,5 @@
 # NodeJs Rest API
-This Repo is my training wwith vanill nodejs. I watch Mr.Traversy's
+This Repo is my training with vanilla nodejs. I watch Mr.Traversy's
 video in YouTube and I write these codes. I wrote most of the code
 by myself, only when I got stuck, I took help from the video.
 
